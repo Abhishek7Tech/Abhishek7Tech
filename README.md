@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Abhishek7Tech
 - 👀 I’m interested in learning how to Code, Football, Anime, Body-science, Psychology, Music.
-- 🌱 I’m currently learning Web development.
+- 🌱 Web developer.
 - 📫 Contact - abhishektab45@gmail.com
