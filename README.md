@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Abhishek7Tech
-- 👀 I’m interested in Code, Football, Anime, Body-science, Psychology, Music.
+- 👀 I’m interested in Code, Football, Anime, Body science, Psychology, Music.
 - 🌱 Web developer.
 - 📫 Contact - abhishektab45@gmail.com
-- ACTIVE ON BITBUCKET THESE DAYS AS MY TEAM USES IT INSTEAD OF GITHUB.
